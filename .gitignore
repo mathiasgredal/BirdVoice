@@ -1,2 +1,14 @@
 
 Old Method/
+
+__pycache__/gatherer.cpython-36.pyc
+
+*.json
+
+__pycache__/gatherer.cpython-36.pyc
+
+*.pyc
+
+__pycache__/gatherer.cpython-36.pyc
+
+*.swp

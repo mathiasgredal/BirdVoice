@@ -29,6 +29,9 @@ Here we get the audio data from [Xeno-Canto](http://xeno-canto.org/), and we are
 #### 2. Segmentation
 After we have gathered a sound we want to cut it up into five second pieces because it is a lot easier for the classifier the receive data having the same shape.
 
+
+
+
 ###### Step by Step
 1. Use p
 
